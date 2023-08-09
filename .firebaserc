@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "cortez-modell"
+  },
+  "targets": {
+    "cortez-modell": {
+      "hosting": {
+        "dylan": [
+          "dylan-cortez-modell"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
